@@ -1,0 +1,8 @@
+TrainingArguments:
+  error_rate : 0.8
+  hidden_size : 256
+  nb_epochs : 100
+  train_batch_size : 128
+  val_batch_size : 256
+  sample_mode : 'argmax'
+  reverse : True
